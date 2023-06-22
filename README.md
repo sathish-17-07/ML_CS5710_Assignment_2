@@ -5,4 +5,4 @@
 <hr />
 
 <b>Please find the video link below for Assignment 2</b> <br />
-<a href="">Assignment 2 Video Link</a>
+<a href="https://drive.google.com/file/d/1X5mdE5tsfmYhbxtSvTIgVi2LtlsQ2jTK/view?usp=drive_link">Assignment 2 Video Link</a>
